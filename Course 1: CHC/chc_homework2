@@ -1,4 +1,4 @@
 ما هي أهم المعلومات المطلوبة في مرحلة الفحص مع مثال على كل منها باستخدام أداة nmap
-1- Ping to know the device up or down
-2- open ports and closed ports (flitered or not).
-3- Services provided.
+1- Ping to know the device up or down: nmap -sP ip
+2- ports number (flitered or not): nmap -sT ip
+3- Services provided : nmap -sX -sV ip
