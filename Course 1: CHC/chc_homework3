@@ -1,0 +1,6 @@
+لماذا تستخدم اداة john the ripper؟ 
+تستخدم لفك التشفير وكسر الباسوررد 
+وما الفرق بين انواع التشفير one-way و two-way ؟
+one-way : hashing : MD5 لا يمكن فك التشفير
+two-way : 
+1- Symmetric : 1 key  , 2- ASymmetric : 2 keys (public and private) يتم التشفير وفك التشفير باستخدام المفتاح
