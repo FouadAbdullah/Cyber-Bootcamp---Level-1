@@ -7,7 +7,10 @@
 4 change your DNS to 8.8.8.8 and 8.8.4.4
  - sudo vi /etc/resolv.conf
 5 Secure the SSH ( put all what you know in the configuration file)
-
+ - use strong password.
+ - Limit usr Login.
+ - Disable Root login.
+ 
 6 How can you find out how much memory Linux is using?
  - cat /proc/meminfo
 7 What is a typical size for a swap partition under a Linux system?
